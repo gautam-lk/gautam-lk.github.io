@@ -1,7 +1,7 @@
 name: "gautam-lk.github.io"
-title: "My Blog"
+title: "My Portfolio"
 description: |
-  My Blog
+  Personal Website
 output_dir: "docs"
 navbar:
   right:
